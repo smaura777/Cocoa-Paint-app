@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ColorSplate' target in the 'ColorSplate' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
